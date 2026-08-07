@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.englishbook.twa",
+    "sha256_cert_fingerprints": [
+      "BC:62:6B:F6:AA:3F:20:5E:7C:86:7E:B6:E9:3B:FD:F4:F9:DC:C5:11:F2:F4:8A:D6:7D:DD:E5:AC:75:FA:DD:BE"
+    ]
+  }
+}]
