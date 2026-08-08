@@ -1,6 +1,6 @@
 ﻿# English Book · Android App
 
-上海中考词汇闪卡 — Android 原生应用 (1711 词条 / SM-2 间隔重复算法 / 全离线).
+上海中考英文词汇 Android App · 极简黑白灰
 
 通过 [Capacitor](https://capacitorjs.com/) 将 React 代码打包进原生 Android WebView — 用户体验等价于原生 App,开发迭代速度与 Web 项目一致.
 
