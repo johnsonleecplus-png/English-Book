@@ -1,0 +1,1357 @@
+[
+ {
+  "word": "a couple of",
+  "pos": "词组",
+  "cn": "两个/几个"
+ },
+ {
+  "word": "a kind of",
+  "pos": "词组",
+  "cn": "一种/一类"
+ },
+ {
+  "word": "a pair of",
+  "pos": "词组",
+  "cn": "一双/一副"
+ },
+ {
+  "word": "a piece of",
+  "pos": "词组",
+  "cn": "一（块，张，片，件）"
+ },
+ {
+  "word": "according to",
+  "pos": "词组",
+  "cn": "按照/根据"
+ },
+ {
+  "word": "Africa",
+  "pos": "名词",
+  "cn": "非洲"
+ },
+ {
+  "word": "after all",
+  "pos": "词组",
+  "cn": "究竟/毕竟"
+ },
+ {
+  "word": "all right",
+  "pos": "词组",
+  "cn": "行了/好吧/（病）好了"
+ },
+ {
+  "word": "all the way",
+  "pos": "词组",
+  "cn": "一路上"
+ },
+ {
+  "word": "American",
+  "pos": "形容词",
+  "cn": "美国的/美洲的"
+ },
+ {
+  "word": "and so on",
+  "pos": "词组",
+  "cn": "等等"
+ },
+ {
+  "word": "April",
+  "pos": "名词",
+  "cn": "四月"
+ },
+ {
+  "word": "as soon as",
+  "pos": "词组",
+  "cn": "一……就"
+ },
+ {
+  "word": "as well",
+  "pos": "词组",
+  "cn": "也/又"
+ },
+ {
+  "word": "Asia",
+  "pos": "名词",
+  "cn": "亚洲"
+ },
+ {
+  "word": "ask for",
+  "pos": "词组",
+  "cn": "请求/寻求"
+ },
+ {
+  "word": "at home",
+  "pos": "词组",
+  "cn": "在家（里）"
+ },
+ {
+  "word": "at once",
+  "pos": "词组",
+  "cn": "立刻/马上"
+ },
+ {
+  "word": "at present",
+  "pos": "词组",
+  "cn": "现在，目前"
+ },
+ {
+  "word": "at school",
+  "pos": "词组",
+  "cn": "在学校/在上课"
+ },
+ {
+  "word": "at the same time",
+  "pos": "词组",
+  "cn": "同时"
+ },
+ {
+  "word": "at work",
+  "pos": "词组",
+  "cn": "在工作"
+ },
+ {
+  "word": "August",
+  "pos": "名词",
+  "cn": "八月"
+ },
+ {
+  "word": "Australian",
+  "pos": "形容词",
+  "cn": "澳大利亚的"
+ },
+ {
+  "word": "be able to",
+  "pos": "词组",
+  "cn": "能够（有能力）"
+ },
+ {
+  "word": "be afraid of",
+  "pos": "词组",
+  "cn": "害怕"
+ },
+ {
+  "word": "be bad for",
+  "pos": "词组",
+  "cn": "有害于"
+ },
+ {
+  "word": "be born",
+  "pos": "词组",
+  "cn": "出生于"
+ },
+ {
+  "word": "be careful with",
+  "pos": "词组",
+  "cn": "小心"
+ },
+ {
+  "word": "be fond of",
+  "pos": "词组",
+  "cn": "爱好"
+ },
+ {
+  "word": "be full of",
+  "pos": "词组",
+  "cn": "充满"
+ },
+ {
+  "word": "be interested in",
+  "pos": "词组",
+  "cn": "对……感兴趣"
+ },
+ {
+  "word": "be keen on",
+  "pos": "词组",
+  "cn": "喜爱"
+ },
+ {
+  "word": "be made from",
+  "pos": "词组",
+  "cn": "由……制成（看不出原料）"
+ },
+ {
+  "word": "be made of",
+  "pos": "词组",
+  "cn": "由……制成(能看出原料)"
+ },
+ {
+  "word": "be made up of",
+  "pos": "词组",
+  "cn": "由……组成"
+ },
+ {
+  "word": "be pleased with",
+  "pos": "词组",
+  "cn": "对……满意"
+ },
+ {
+  "word": "be proud of",
+  "pos": "词组",
+  "cn": "为……而感到自豪"
+ },
+ {
+  "word": "be ready for",
+  "pos": "词组",
+  "cn": "对……作准备"
+ },
+ {
+  "word": "be responsible for",
+  "pos": "词组",
+  "cn": "对……负责任"
+ },
+ {
+  "word": "be similar to",
+  "pos": "词组",
+  "cn": "与…类似"
+ },
+ {
+  "word": "be strict with",
+  "pos": "词组",
+  "cn": "对……严格"
+ },
+ {
+  "word": "be surprised at",
+  "pos": "词组",
+  "cn": "为……感到惊奇"
+ },
+ {
+  "word": "be used to do",
+  "pos": "词组",
+  "cn": "被用来"
+ },
+ {
+  "word": "be used to doing",
+  "pos": "词组",
+  "cn": "习惯于"
+ },
+ {
+  "word": "because of",
+  "pos": "词组",
+  "cn": "由于"
+ },
+ {
+  "word": "belong to",
+  "pos": "词组",
+  "cn": "属于"
+ },
+ {
+  "word": "big deal",
+  "pos": "词组",
+  "cn": "大人物"
+ },
+ {
+  "word": "break into",
+  "pos": "词组",
+  "cn": "闯入/破门而入"
+ },
+ {
+  "word": "British",
+  "pos": "名词",
+  "cn": "英国人"
+ },
+ {
+  "word": "by bus",
+  "pos": "词组",
+  "cn": "乘公共汽车"
+ },
+ {
+  "word": "by oneself",
+  "pos": "词组",
+  "cn": "亲自"
+ },
+ {
+  "word": "by phone",
+  "pos": "词组",
+  "cn": "打电话"
+ },
+ {
+  "word": "by the way",
+  "pos": "词组",
+  "cn": "顺便说/顺便问一下"
+ },
+ {
+  "word": "Canadian",
+  "pos": "形容词",
+  "cn": "加拿大的"
+ },
+ {
+  "word": "care for",
+  "pos": "词组",
+  "cn": "照顾/喜欢"
+ },
+ {
+  "word": "catch fire",
+  "pos": "词组",
+  "cn": "着火"
+ },
+ {
+  "word": "check in",
+  "pos": "词组",
+  "cn": "办理登机"
+ },
+ {
+  "word": "Chinese",
+  "pos": "名词",
+  "cn": "中国人/汉语"
+ },
+ {
+  "word": "Christmas",
+  "pos": "名词",
+  "cn": "圣诞节"
+ },
+ {
+  "word": "come from",
+  "pos": "词组",
+  "cn": "出生于/来自"
+ },
+ {
+  "word": "come on",
+  "pos": "词组",
+  "cn": "快/走吧/跟我来"
+ },
+ {
+  "word": "come to an end",
+  "pos": "词组",
+  "cn": "结束"
+ },
+ {
+  "word": "come true",
+  "pos": "词组",
+  "cn": "实现"
+ },
+ {
+  "word": "communicate with",
+  "pos": "词组",
+  "cn": "与……交流"
+ },
+ {
+  "word": "complain about",
+  "pos": "词组",
+  "cn": "投诉/抱怨"
+ },
+ {
+  "word": "consist of",
+  "pos": "词组",
+  "cn": "由……组成"
+ },
+ {
+  "word": "cut down",
+  "pos": "词组",
+  "cn": "砍倒"
+ },
+ {
+  "word": "deal with",
+  "pos": "词组",
+  "cn": "处理"
+ },
+ {
+  "word": "December",
+  "pos": "名词",
+  "cn": "十二月"
+ },
+ {
+  "word": "department store",
+  "pos": "名词",
+  "cn": "百货商店"
+ },
+ {
+  "word": "depend on",
+  "pos": "词组",
+  "cn": "依靠，依赖"
+ },
+ {
+  "word": "die of",
+  "pos": "词组",
+  "cn": "因……病而死"
+ },
+ {
+  "word": "do some shopping",
+  "pos": "词组",
+  "cn": "买东西"
+ },
+ {
+  "word": "dream of",
+  "pos": "词组",
+  "cn": "想到"
+ },
+ {
+  "word": "dress up",
+  "pos": "词组",
+  "cn": "穿着打扮"
+ },
+ {
+  "word": "each other",
+  "pos": "词组",
+  "cn": "互相"
+ },
+ {
+  "word": "English",
+  "pos": "名词",
+  "cn": "英国/英国人/英语"
+ },
+ {
+  "word": "enjoy oneself",
+  "pos": "词组",
+  "cn": "过得愉快"
+ },
+ {
+  "word": "Europe",
+  "pos": "名词",
+  "cn": "欧洲"
+ },
+ {
+  "word": "fall asleep",
+  "pos": "词组",
+  "cn": "入睡"
+ },
+ {
+  "word": "February",
+  "pos": "名词",
+  "cn": "二月"
+ },
+ {
+  "word": "fill in",
+  "pos": "词组",
+  "cn": "填充/填写"
+ },
+ {
+  "word": "find out",
+  "pos": "词组",
+  "cn": "找出/查明/了解"
+ },
+ {
+  "word": "for example",
+  "pos": "词组",
+  "cn": "例如"
+ },
+ {
+  "word": "for free",
+  "pos": "词组",
+  "cn": "免费"
+ },
+ {
+  "word": "for the first time",
+  "pos": "词组",
+  "cn": "第一次"
+ },
+ {
+  "word": "for the time being",
+  "pos": "词组",
+  "cn": "暂时，眼下"
+ },
+ {
+  "word": "French",
+  "pos": "形容词",
+  "cn": "法国的/法语的"
+ },
+ {
+  "word": "Friday",
+  "pos": "名词",
+  "cn": "星期五"
+ },
+ {
+  "word": "from door to door",
+  "pos": "词组",
+  "cn": "挨家挨户"
+ },
+ {
+  "word": "German",
+  "pos": "名词",
+  "cn": "德国人/德语"
+ },
+ {
+  "word": "get back",
+  "pos": "词组",
+  "cn": "返回"
+ },
+ {
+  "word": "get into the habit of",
+  "pos": "词组",
+  "cn": "养成……的习惯"
+ },
+ {
+  "word": "get off",
+  "pos": "词组",
+  "cn": "下车"
+ },
+ {
+  "word": "get on",
+  "pos": "词组",
+  "cn": "上车"
+ },
+ {
+  "word": "get ready for",
+  "pos": "词组",
+  "cn": "为……作准备"
+ },
+ {
+  "word": "get rid of",
+  "pos": "词组",
+  "cn": "摆脱"
+ },
+ {
+  "word": "get tired of",
+  "pos": "词组",
+  "cn": "对……感到厌倦"
+ },
+ {
+  "word": "get to",
+  "pos": "词组",
+  "cn": "到达"
+ },
+ {
+  "word": "get up",
+  "pos": "词组",
+  "cn": "起床"
+ },
+ {
+  "word": "go ahead",
+  "pos": "词组",
+  "cn": "先走/向前走/去吧/干吧"
+ },
+ {
+  "word": "go for a swim",
+  "pos": "词组",
+  "cn": "去游泳"
+ },
+ {
+  "word": "go home",
+  "pos": "词组",
+  "cn": "回家"
+ },
+ {
+  "word": "go on",
+  "pos": "词组",
+  "cn": "继续"
+ },
+ {
+  "word": "go on a diet",
+  "pos": "词组",
+  "cn": "实行节食"
+ },
+ {
+  "word": "go on a picnic",
+  "pos": "词组",
+  "cn": "去野餐"
+ },
+ {
+  "word": "go out",
+  "pos": "词组",
+  "cn": "熄灭"
+ },
+ {
+  "word": "go over",
+  "pos": "词组",
+  "cn": "复习/仔细地再读一遍"
+ },
+ {
+  "word": "go shopping",
+  "pos": "词组",
+  "cn": "去购物"
+ },
+ {
+  "word": "go sightseeing",
+  "pos": "词组",
+  "cn": "去观光"
+ },
+ {
+  "word": "go to bed",
+  "pos": "词组",
+  "cn": "就寝"
+ },
+ {
+  "word": "go wrong",
+  "pos": "词组",
+  "cn": "出错"
+ },
+ {
+  "word": "God",
+  "pos": "名词",
+  "cn": "上帝"
+ },
+ {
+  "word": "grow up",
+  "pos": "词组",
+  "cn": "成年/长大"
+ },
+ {
+  "word": "had better",
+  "pos": "词组",
+  "cn": "最好还是/还是……好"
+ },
+ {
+  "word": "hand in",
+  "pos": "词组",
+  "cn": "上交"
+ },
+ {
+  "word": "happen to do",
+  "pos": "词组",
+  "cn": "碰巧做"
+ },
+ {
+  "word": "have a good time",
+  "pos": "词组",
+  "cn": "玩得/过得很愉快"
+ },
+ {
+  "word": "have breakfast",
+  "pos": "词组",
+  "cn": "吃早餐"
+ },
+ {
+  "word": "have no idea",
+  "pos": "词组",
+  "cn": "不清楚"
+ },
+ {
+  "word": "have sports",
+  "pos": "词组",
+  "cn": "进行体育活动"
+ },
+ {
+  "word": "hear from",
+  "pos": "词组",
+  "cn": "收到……来信"
+ },
+ {
+  "word": "hear of",
+  "pos": "词组",
+  "cn": "听说"
+ },
+ {
+  "word": "here and there",
+  "pos": "词组",
+  "cn": "到处"
+ },
+ {
+  "word": "hold a meeting",
+  "pos": "词组",
+  "cn": "举行会议"
+ },
+ {
+  "word": "hold on",
+  "pos": "词组",
+  "cn": "等一等（别挂电话）"
+ },
+ {
+  "word": "huge amounts of",
+  "pos": "词组",
+  "cn": "大量的"
+ },
+ {
+  "word": "in a hurry",
+  "pos": "词组",
+  "cn": "匆忙"
+ },
+ {
+  "word": "in a minute",
+  "pos": "词组",
+  "cn": "一会儿"
+ },
+ {
+  "word": "in addition",
+  "pos": "词组",
+  "cn": "另外"
+ },
+ {
+  "word": "in charge of",
+  "pos": "词组",
+  "cn": "主管，负责"
+ },
+ {
+  "word": "in class",
+  "pos": "词组",
+  "cn": "在课上"
+ },
+ {
+  "word": "in danger",
+  "pos": "词组",
+  "cn": "处于危险中"
+ },
+ {
+  "word": "in English",
+  "pos": "词组",
+  "cn": "用英语"
+ },
+ {
+  "word": "in fact",
+  "pos": "词组",
+  "cn": "事实上/实际上"
+ },
+ {
+  "word": "in favour of",
+  "pos": "词组",
+  "cn": "赞同,赞成"
+ },
+ {
+  "word": "in front of",
+  "pos": "词组",
+  "cn": "在……前面"
+ },
+ {
+  "word": "in hospital",
+  "pos": "词组",
+  "cn": "住院"
+ },
+ {
+  "word": "in order to",
+  "pos": "词组",
+  "cn": "为了"
+ },
+ {
+  "word": "in other words",
+  "pos": "词组",
+  "cn": "换句话说/ 也就是说"
+ },
+ {
+  "word": "in return",
+  "pos": "词组",
+  "cn": "作为回报"
+ },
+ {
+  "word": "in surprise",
+  "pos": "词组",
+  "cn": "惊奇地"
+ },
+ {
+  "word": "in the end",
+  "pos": "词组",
+  "cn": "最后/终于"
+ },
+ {
+  "word": "in the future",
+  "pos": "词组",
+  "cn": "在将来"
+ },
+ {
+  "word": "in the middle of",
+  "pos": "词组",
+  "cn": "在……中间"
+ },
+ {
+  "word": "in the past",
+  "pos": "词组",
+  "cn": "在过去/从前"
+ },
+ {
+  "word": "in this way",
+  "pos": "词组",
+  "cn": "这样"
+ },
+ {
+  "word": "in time",
+  "pos": "词组",
+  "cn": "及时"
+ },
+ {
+  "word": "in trouble",
+  "pos": "词组",
+  "cn": "处于困境中"
+ },
+ {
+  "word": "Indian",
+  "pos": "名词",
+  "cn": "印度人/印第安人/印第安语"
+ },
+ {
+  "word": "instead of",
+  "pos": "词组",
+  "cn": "代替/而不是"
+ },
+ {
+  "word": "Internet",
+  "pos": "名词",
+  "cn": "英特网（国际互联网）"
+ },
+ {
+  "word": "Italian",
+  "pos": "名词",
+  "cn": "意大利人/意大利语"
+ },
+ {
+  "word": "Italy",
+  "pos": "名词",
+  "cn": "意大利"
+ },
+ {
+  "word": "January",
+  "pos": "名词",
+  "cn": "一月"
+ },
+ {
+  "word": "Japanese",
+  "pos": "名词",
+  "cn": "日本人/日语"
+ },
+ {
+  "word": "July",
+  "pos": "名词",
+  "cn": "七月"
+ },
+ {
+  "word": "June",
+  "pos": "名词",
+  "cn": "六月"
+ },
+ {
+  "word": "keep a diary",
+  "pos": "词组",
+  "cn": "记日记"
+ },
+ {
+  "word": "keep fit",
+  "pos": "词组",
+  "cn": "保持健康"
+ },
+ {
+  "word": "keep off",
+  "pos": "词组",
+  "cn": "阻挡/不让……接近"
+ },
+ {
+  "word": "keep quiet",
+  "pos": "词组",
+  "cn": "保持安静"
+ },
+ {
+  "word": "laugh at",
+  "pos": "词组",
+  "cn": "嘲笑"
+ },
+ {
+  "word": "leave a message",
+  "pos": "词组",
+  "cn": "留个口信"
+ },
+ {
+  "word": "leave for",
+  "pos": "词组",
+  "cn": "动身去"
+ },
+ {
+  "word": "listen to",
+  "pos": "词组",
+  "cn": "听……（讲话）"
+ },
+ {
+  "word": "live on",
+  "pos": "词组",
+  "cn": "靠……为生"
+ },
+ {
+  "word": "London",
+  "pos": "名词",
+  "cn": "伦敦"
+ },
+ {
+  "word": "look forward to",
+  "pos": "词组",
+  "cn": "期待着"
+ },
+ {
+  "word": "look like",
+  "pos": "词组",
+  "cn": "看上去像/显得"
+ },
+ {
+  "word": "look out",
+  "pos": "词组",
+  "cn": "注意/留神"
+ },
+ {
+  "word": "lose one",
+  "pos": "",
+  "cn": ""
+ },
+ {
+  "word": "make a decision",
+  "pos": "词组",
+  "cn": "作出决定"
+ },
+ {
+  "word": "make a fire",
+  "pos": "词组",
+  "cn": "生火"
+ },
+ {
+  "word": "make a mistake",
+  "pos": "词组",
+  "cn": "出差错/犯错误"
+ },
+ {
+  "word": "make a noise",
+  "pos": "词组",
+  "cn": "弄出声"
+ },
+ {
+  "word": "make fun of",
+  "pos": "词组",
+  "cn": "拿……开玩笑"
+ },
+ {
+  "word": "make money",
+  "pos": "词组",
+  "cn": "挣钱/赚钱"
+ },
+ {
+  "word": "make the bed",
+  "pos": "词组",
+  "cn": "整理床铺"
+ },
+ {
+  "word": "March",
+  "pos": "名词",
+  "cn": "三月"
+ },
+ {
+  "word": "may (might)",
+  "pos": "v. aux",
+  "cn": "可以/可能"
+ },
+ {
+  "word": "Monday",
+  "pos": "名词",
+  "cn": "星期一"
+ },
+ {
+  "word": "Mr",
+  "pos": "名词",
+  "cn": "先生"
+ },
+ {
+  "word": "Mrs",
+  "pos": "名词",
+  "cn": "夫人, 太太"
+ },
+ {
+  "word": "next to",
+  "pos": "词组",
+  "cn": "紧挨着/紧靠着"
+ },
+ {
+  "word": "November",
+  "pos": "名词",
+  "cn": "十一月"
+ },
+ {
+  "word": "October",
+  "pos": "名词",
+  "cn": "十月"
+ },
+ {
+  "word": "of course",
+  "pos": "词组",
+  "cn": "当然"
+ },
+ {
+  "word": "OK",
+  "pos": "形容词",
+  "cn": "adv. 对/好/可以/行"
+ },
+ {
+  "word": "Olympic",
+  "pos": "形容词",
+  "cn": "奥林匹克的"
+ },
+ {
+  "word": "on average",
+  "pos": "词组",
+  "cn": "按平均值/ 通常"
+ },
+ {
+  "word": "on business",
+  "pos": "词组",
+  "cn": "有事，出差"
+ },
+ {
+  "word": "on foot",
+  "pos": "词组",
+  "cn": "步行/走路"
+ },
+ {
+  "word": "on holiday",
+  "pos": "词组",
+  "cn": "在休假"
+ },
+ {
+  "word": "on the phone",
+  "pos": "词组",
+  "cn": "在听电话"
+ },
+ {
+  "word": "on the right",
+  "pos": "词组",
+  "cn": "在右边"
+ },
+ {
+  "word": "on time",
+  "pos": "词组",
+  "cn": "准时"
+ },
+ {
+  "word": "on weekdays",
+  "pos": "词组",
+  "cn": "在工作日"
+ },
+ {
+  "word": "once a day",
+  "pos": "词组",
+  "cn": "每天一次"
+ },
+ {
+  "word": "once every four years",
+  "pos": "词组",
+  "cn": "每四年一次"
+ },
+ {
+  "word": "one after another",
+  "pos": "词组",
+  "cn": "一个接一个，连续地"
+ },
+ {
+  "word": "one another",
+  "pos": "词组",
+  "cn": "互相"
+ },
+ {
+  "word": "opportunity",
+  "pos": "",
+  "cn": ""
+ },
+ {
+  "word": "out of",
+  "pos": "词组",
+  "cn": "从……里出来/缺乏"
+ },
+ {
+  "word": "out of date",
+  "pos": "词组",
+  "cn": "过时"
+ },
+ {
+  "word": "Paris",
+  "pos": "名词",
+  "cn": "（法国首都）巴黎"
+ },
+ {
+  "word": "pay for",
+  "pos": "词组",
+  "cn": "付……钱/买"
+ },
+ {
+  "word": "pick out",
+  "pos": "词组",
+  "cn": "挑选出"
+ },
+ {
+  "word": "play a trick on",
+  "pos": "词组",
+  "cn": "捉弄"
+ },
+ {
+  "word": "play with",
+  "pos": "词组",
+  "cn": "玩耍，摆弄"
+ },
+ {
+  "word": "plenty of",
+  "pos": "词组",
+  "cn": "大量的，充足的"
+ },
+ {
+  "word": "point out",
+  "pos": "词组",
+  "cn": "指出"
+ },
+ {
+  "word": "prepare for",
+  "pos": "词组",
+  "cn": "准备"
+ },
+ {
+  "word": "put off",
+  "pos": "词组",
+  "cn": "延期"
+ },
+ {
+  "word": "put on",
+  "pos": "词组",
+  "cn": "穿/戴上/上演"
+ },
+ {
+  "word": "put out",
+  "pos": "词组",
+  "cn": "扑灭"
+ },
+ {
+  "word": "put up",
+  "pos": "词组",
+  "cn": "举起/挂起"
+ },
+ {
+  "word": "rely on",
+  "pos": "词组",
+  "cn": "依靠"
+ },
+ {
+  "word": "run away",
+  "pos": "词组",
+  "cn": "逃跑"
+ },
+ {
+  "word": "run out of",
+  "pos": "词组",
+  "cn": "用完, 耗尽"
+ },
+ {
+  "word": "Saturday",
+  "pos": "名词",
+  "cn": "星期六"
+ },
+ {
+  "word": "search for",
+  "pos": "词组",
+  "cn": "搜寻/搜查"
+ },
+ {
+  "word": "sell out",
+  "pos": "词组",
+  "cn": "售完"
+ },
+ {
+  "word": "September",
+  "pos": "名词",
+  "cn": "九月"
+ },
+ {
+  "word": "shake hands with",
+  "pos": "词组",
+  "cn": "与……握手"
+ },
+ {
+  "word": "show off",
+  "pos": "词组",
+  "cn": "炫耀"
+ },
+ {
+  "word": "shut up",
+  "pos": "词组",
+  "cn": "住口"
+ },
+ {
+  "word": "so far",
+  "pos": "词组",
+  "cn": "迄今为止"
+ },
+ {
+  "word": "some day",
+  "pos": "词组",
+  "cn": "将来有一天"
+ },
+ {
+  "word": "stay up",
+  "pos": "词组",
+  "cn": "熬夜"
+ },
+ {
+  "word": "such as",
+  "pos": "词组",
+  "cn": "例如"
+ },
+ {
+  "word": "Sunday",
+  "pos": "名词",
+  "cn": "星期日"
+ },
+ {
+  "word": "take a look",
+  "pos": "词组",
+  "cn": "看一看"
+ },
+ {
+  "word": "take an underground",
+  "pos": "词组",
+  "cn": "乘地铁"
+ },
+ {
+  "word": "take away",
+  "pos": "词组",
+  "cn": "拿走"
+ },
+ {
+  "word": "take care of",
+  "pos": "词组",
+  "cn": "照料"
+ },
+ {
+  "word": "take charge of",
+  "pos": "词组",
+  "cn": "负责，管理"
+ },
+ {
+  "word": "take hold of",
+  "pos": "词组",
+  "cn": "抓住"
+ },
+ {
+  "word": "take notes",
+  "pos": "词组",
+  "cn": "记笔记"
+ },
+ {
+  "word": "take off",
+  "pos": "词组",
+  "cn": "脱掉（衣服等）/起飞"
+ },
+ {
+  "word": "take out",
+  "pos": "词组",
+  "cn": "取出"
+ },
+ {
+  "word": "take part in",
+  "pos": "词组",
+  "cn": "参加"
+ },
+ {
+  "word": "take place",
+  "pos": "词组",
+  "cn": "发生/举行"
+ },
+ {
+  "word": "take up",
+  "pos": "词组",
+  "cn": "开始从事"
+ },
+ {
+  "word": "tell a lie",
+  "pos": "词组",
+  "cn": "说谎"
+ },
+ {
+  "word": "tell the time",
+  "pos": "词组",
+  "cn": "报时"
+ },
+ {
+  "word": "the Atlantic",
+  "pos": "专有名词",
+  "cn": "大西洋"
+ },
+ {
+  "word": "the Pacific",
+  "pos": "专有名词",
+  "cn": "太平洋"
+ },
+ {
+  "word": "the week after next",
+  "pos": "词组",
+  "cn": "下下周"
+ },
+ {
+  "word": "think bout",
+  "pos": "词组",
+  "cn": "考虑（做某事的可行性）"
+ },
+ {
+  "word": "think of",
+  "pos": "词组",
+  "cn": "想起/想到"
+ },
+ {
+  "word": "think over",
+  "pos": "词组",
+  "cn": "仔细考虑"
+ },
+ {
+  "word": "throw away",
+  "pos": "词组",
+  "cn": "扔掉"
+ },
+ {
+  "word": "Thursday",
+  "pos": "名词",
+  "cn": "星期四"
+ },
+ {
+  "word": "try on",
+  "pos": "词组",
+  "cn": "试穿"
+ },
+ {
+  "word": "Tuesday",
+  "pos": "名词",
+  "cn": "星期二"
+ },
+ {
+  "word": "turn off",
+  "pos": "词组",
+  "cn": "关掉（电灯，电视，收音机等）"
+ },
+ {
+  "word": "turn on",
+  "pos": "词组",
+  "cn": "开，旋开（电灯，电视，收音机等）"
+ },
+ {
+  "word": "turn out",
+  "pos": "词组",
+  "cn": "结果是/证明是"
+ },
+ {
+  "word": "turn over",
+  "pos": "词组",
+  "cn": "翻（车）/翻（页）/翻身"
+ },
+ {
+  "word": "used to",
+  "pos": "词组",
+  "cn": "过去常常"
+ },
+ {
+  "word": "wait for",
+  "pos": "词组",
+  "cn": "等候/等待"
+ },
+ {
+  "word": "wake up",
+  "pos": "词组",
+  "cn": "醒来/叫醒"
+ },
+ {
+  "word": "Wednesday",
+  "pos": "名词",
+  "cn": "星期三"
+ },
+ {
+  "word": "with great care",
+  "pos": "词组",
+  "cn": "非常小心"
+ },
+ {
+  "word": "with pleasure",
+  "pos": "词组",
+  "cn": "愉快地"
+ },
+ {
+  "word": "with the help of",
+  "pos": "词组",
+  "cn": "在……的帮助下"
+ },
+ {
+  "word": "work as",
+  "pos": "词组",
+  "cn": "从事……工作"
+ },
+ {
+  "word": "work out",
+  "pos": "词组",
+  "cn": "做出/算出/制定出"
+ },
+ {
+  "word": "would rather",
+  "pos": "词组",
+  "cn": "宁愿，宁可"
+ }
+]

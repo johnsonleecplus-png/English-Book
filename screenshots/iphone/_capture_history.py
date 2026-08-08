@@ -1,0 +1,28 @@
+"""截图 History 页 (7 周热力图)"""
+from playwright.sync_api import sync_playwright
+import time, re
+from pathlib import Path
+
+OUT = Path(r"D:\10-English-Book\screenshots\iphone\tts-verify")
+
+with sync_playwright() as p:
+    browser = p.chromium.launch()
+    ctx = browser.new_context(
+        user_agent='Mozilla/5.0 (Linux; Android 13; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36',
+        viewport={'width': 393, 'height': 851},
+        device_scale_factor=2.75,
+        is_mobile=True,
+        has_touch=True,
+    )
+    page = ctx.new_page()
+    page.goto(f'http://127.0.0.1:5173/?cb=hist&_={int(time.time())}', wait_until='domcontentloaded')
+    page.wait_for_timeout(2500)
+
+    # 直接点 历史 tab
+    page.locator('button:has-text("历史")').first.click()
+    page.wait_for_timeout(1500)
+
+    page.screenshot(path=str(OUT / "history-heatmap.png"), full_page=True)
+    print("history-heatmap.png saved")
+
+    browser.close()

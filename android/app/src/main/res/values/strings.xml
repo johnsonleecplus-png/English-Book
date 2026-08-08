@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">English Book</string>
+    <string name="title_activity_main">English Book</string>
+    <string name="package_name">com.johnson.englishbook</string>
+    <string name="custom_url_scheme">com.johnson.englishbook</string>
+</resources>
