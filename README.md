@@ -1,8 +1,10 @@
 ﻿# English Book · Android App
 
-A native Android wrapper for the **English Book** vocabulary flashcard PWA (上海中考词汇 / 1711 词条 / SM-2 间隔重复算法).
+上海中考词汇闪卡 — Android 原生应用 (1711 词条 / SM-2 间隔重复算法 / 全离线).
 
-Built with [Capacitor](https://capacitorjs.com/) — keeps 100% of the React web code intact, packages it inside a native Android WebView with proper icons, splash screen, and Android lifecycle.
+通过 [Capacitor](https://capacitorjs.com/) 将 React 代码打包进原生 Android WebView — 用户体验等价于原生 App,开发迭代速度与 Web 项目一致.
+
+> **关于 PWA**: 本项目虽然使用 Vite + vite-plugin-pwa 构建, 但 **不启用 PWA 模式**. 生成的 Service Worker (`sw.js`) 和 Web App Manifest 在 Android WebView 中无效 (WebView 本身就是本地容器, 不需要"添加到主屏"或离线缓存机制). 这些产物只是构建副产物, 不会影响 Android 端运行.
 
 
 ## 致谢 / Credits
